@@ -1,6 +1,6 @@
 # country-names
 
-Country names for ISO-3166-1 alpha-2 codes.
+Country names and ISO-3166-1 alpha-2 codes in JSON.
 
 Languages: English, German and Italian.
 
